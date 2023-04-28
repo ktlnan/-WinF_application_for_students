@@ -12,6 +12,7 @@ namespace LB11
 {
     public partial class StudForm : Form
     {
+        public Form2 form1;
         public StudForm()
         {
             InitializeComponent();
